@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img src="https://github.com/BatuhanBa/batuhanbaydemir/blob/main/develop-web.gif" align="right" height="200">
+<img src="https://github.com/BatuhanBaydemir/BatuhanBaydemir/blob/main/4fb239cb.gif" align="right" height="200" width="300">
 
 💻 I am a 3rd-year software engineering student. I have a keen interest in Back-End Development and Cyber Security.
 
