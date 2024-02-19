@@ -23,3 +23,5 @@ I am also passionate about Cyber Security domains such as Identity and  Access M
 
 🔗 [LinkedIn](https://www.linkedin.com/in/batuhanbaydemir/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BatuhanBaydemir&show_icons=true&locale=en&layout=compact" alt="BatuhanBaydemir" /></p>
+
