@@ -21,5 +21,5 @@ I am also passionate about Cyber Security domains such as Identity and  Access M
 
 :e-mail: batuhanbaydemir@icloud.com
 
-📱 " "[LinkedIn](https://www.linkedin.com/in/batuhanbaydemir/)
+🔗 [LinkedIn](https://www.linkedin.com/in/batuhanbaydemir/)
 
